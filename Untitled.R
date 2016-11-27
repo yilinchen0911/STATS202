@@ -6,3 +6,4 @@ mod = lm(Value ~.,train)
 mod.pred = predict(mod,test)
 ##jadh
 ##hdgfjshdgf
+##jhadgjsfmsdf
