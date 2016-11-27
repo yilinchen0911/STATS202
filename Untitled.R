@@ -5,3 +5,4 @@ test = read.csv("test.csv")
 mod = lm(Value ~.,train)
 mod.pred = predict(mod,test)
 ##jadh
+##hdgfjshdgf
